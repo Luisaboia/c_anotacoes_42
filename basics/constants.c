@@ -7,4 +7,5 @@ int main(){
 	const int MEUNUM = 42;
 	printf("%d\n", MEUNUM);
 
+	return 0;
 }

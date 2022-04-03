@@ -14,7 +14,7 @@ int main(){
 	printf("Escolha a operação: ");
 	scanf("%s", &op);
 
-	printf("\nX: %.1lf, Y: %.1lf, Operação: %c\n", x,y,op);
+	printf("\nX: %.1lf, Y: %.1lf, Operação: %c\n", x , y, op);
 
 	switch(op){
 		case '+':
